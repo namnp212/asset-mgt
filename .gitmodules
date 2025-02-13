@@ -1,0 +1,3 @@
+[submodule "gold-service"]
+	path = gold-service
+	url = https://github.com/namnp212/gold-service
